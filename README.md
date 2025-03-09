@@ -5,6 +5,7 @@
 - 📫 How to reach me =>
 -Linkedin: https://www.linkedin.com/in/koray-%C3%A7ift%C3%A7i-814392257/  
 -Mail: korayciftciii60@gmail.com
+
 Summarize
 A highly motivated and detail-oriented aspiring software developer with a strong foundation in computer systems and
  full-stack web development. Graduated from a technical high school with a focus on software development and
