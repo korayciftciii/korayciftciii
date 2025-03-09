@@ -7,6 +7,7 @@
 -Mail: korayciftciii60@gmail.com
 
 Summarize
+
 A highly motivated and detail-oriented aspiring software developer with a strong foundation in computer systems and
  full-stack web development. Graduated from a technical high school with a focus on software development and
  currently studying English Foundation for Computer Systems at Riga Technical University.
