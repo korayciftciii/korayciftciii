@@ -100,7 +100,7 @@ An interactive ticket sales system with real-time updates, secure authentication
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-korayciftciii60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korayciftciii60@gmail.com)
+[![Email](https://img.shields.io/badge/Email-korayciftciii@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korayciftciii@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Koray%20Çiftçi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koray-%C3%A7ift%C3%A7i-814392257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-korayciftci.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://korayciftci.vercel.app/)
 
