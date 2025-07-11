@@ -58,7 +58,7 @@ const koray = {
 - 🥇 **React JS Participation Certificate** - BTK Academy (ZA1UMVevmO)
 - 🎯 **ASP.NET Core MVC** - Certified
 - 🎯 **Node.js** - Certified
-- 📚 **Full Stack Web Development** - HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+- 📚 **Full Stack Web Development** - HTML, CSS, JavaScript, React, Node.js, Express, Next.js, ASP.NET Core
 
 ## 🚀 Featured Projects
 
