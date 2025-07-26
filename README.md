@@ -62,10 +62,10 @@ const koray = {
 
 ## 🚀 Featured Projects
 
-### 🛒 MultiShop E-Commerce Platform
-**Technologies:** `C#` `ASP.NET Core` `Entity Framework` `SQL Server` `Docker` `Azure`
+### 🌊 Dashwave - Multi-Tenant Team Collaboration Platform
+**Technologies:** `Next.js` `Typescript` `Prisma` `Clerk` `Cloudinary` `Oepn Route AI`
 
-A comprehensive e-commerce platform featuring user authentication, product management, shopping cart, Stripe integration for payments, and order processing with containerization support.
+A modern, full-stack SaaS platform for team collaboration, project management, and task tracking. Built with the latest web technologies and designed for scalability and performance.
 
 ### 🎫 Tickably Interactive Ticket Sales System
 **Technologies:** `Next.js` `PostgreSQL` `TypeScript` `Tailwind CSS` `Clerk Auth` `Stripe` `Convex`
