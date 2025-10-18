@@ -6,16 +6,16 @@
 
 ## 🚀 About Me
 
-I'm a 19-year-old **Computer Engineering** student at **Marmara University**. With 3+ years of software development experience, I build scalable and performant applications using modern web technologies.
+I'm a 20-year-old **Computer Engineering** student at **Marmara University**. With 3+ years of software development experience, I build scalable and performant applications using modern web technologies.
 
 I'm passionate about backend development, web services, web APIs, and mobile application development. I work with clean code principles, best practices, and continuous learning mindset.
 
 ```javascript
 const koray = {
-    age: 19,
+    age: 20,
     location: "Istanbul, Turkey",
     university: "Marmara University - Computer Engineering",
-    experience: "3+ years",
+    experience: "4+ years",
     focus: ["Backend Development", "Full Stack", "Web APIs", "Mobile Development"],
     currentlyLearning: ["Web Development", "Modern JavaScript Frameworks", "Cloud Technologies"],
     collaboration: "Self Improvement & Open Source Projects"
