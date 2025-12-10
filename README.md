@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Koray Çiftçi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Modern+Web+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Development+Enthusiast;NLP+Engineer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
