@@ -1,126 +1,106 @@
 # 👋 Hello, I'm Koray Çiftçi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Development+Enthusiast;NLP+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Engineer;NLP+%26+Knowledge+Graph+Specialist;Scalable+System+Architect" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a 20-year-old **Computer Engineering** student at **Marmara University**. With 3+ years of software development experience, I build scalable and performant applications using modern web technologies.
+Computer Engineering student at **Marmara University** specializing in **Artificial Intelligence** and **Software Engineering**. I focus on building intelligent, scalable systems that leverage cutting-edge AI technologies and modern software architecture principles.
 
-I'm passionate about backend development, web services, web APIs, and mobile application development. I work with clean code principles, best practices, and continuous learning mindset.
+My expertise spans across **Natural Language Processing**, **Machine Learning**, **Knowledge Graphs**, and **Entity Recognition**, combined with solid software engineering practices to create robust, production-ready AI solutions.
 
 ```javascript
 const koray = {
-    age: 20,
+    role: "Computer Engineering Student & AI Engineer",
+    university: "Marmara University",
     location: "Istanbul, Turkey",
-    university: "Marmara University - Computer Engineering",
-    experience: "4+ years",
-    focus: ["Backend Development", "Full Stack", "Web APIs", "Mobile Development"],
-    currentlyLearning: ["Web Development", "Modern JavaScript Frameworks", "Cloud Technologies"],
-    collaboration: "Self Improvement & Open Source Projects"
+    expertise: [
+        "Natural Language Processing (NLP)",
+        "Large Language Models (LLM)",
+        "Machine Learning & Neural Networks",
+        "Named Entity Recognition (NER)",
+        "Entity Recognition (ER)",
+        "Knowledge Graphs (KG)",
+        "Distributed Systems & Microservices"
+    ],
+    architecture: ["Clean Architecture", "Event-Driven Design", "Microservices"],
+    currentFocus: "Building intelligent systems that bridge AI and software engineering"
 };
 ```
 
-## 💻 Tech Stack
+## 🧠 AI & Machine Learning Stack
 
 <div align="center">
 
-### 🎯 Backend Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### Core AI Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Database & Tools
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### NLP & Language Models
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
 </div>
 
-## 🏆 Certificates & Achievements
+## 💻 Software Engineering Stack
 
-- 🥇 **Advanced React JS** - BTK Academy (jK1hGWNdg1)
-- 🥇 **React JS Participation Certificate** - BTK Academy (ZA1UMVevmO)
-- 🎯 **ASP.NET Core MVC** - Certified
-- 🎯 **Node.js** - Certified
-- 📚 **Full Stack Web Development** - HTML, CSS, JavaScript, React, Node.js, Express, Next.js, ASP.NET Core
+<div align="center">
 
-## 🚀 Featured Projects
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌊 Dashwave - Multi-Tenant Team Collaboration Platform
-**Technologies:** `Next.js` `Typescript` `Prisma` `Clerk` `Cloudinary` `Oepn Route AI`
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-A modern, full-stack SaaS platform for team collaboration, project management, and task tracking. Built with the latest web technologies and designed for scalability and performance.
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🎫 Tickably Interactive Ticket Sales System
-**Technologies:** `Next.js` `PostgreSQL` `TypeScript` `Tailwind CSS` `Clerk Auth` `Stripe` `Convex`
+</div>
 
-An interactive ticket sales system with real-time updates, secure authentication, and modern UI design for seamless user experience.
+## 🔬 Research Interests & Specializations
+
+- **Natural Language Processing (NLP)** - Text analysis, sentiment analysis, language understanding
+- **Large Language Models (LLM)** - Fine-tuning, prompt engineering, RAG systems
+- **Named Entity Recognition (NER)** - Entity extraction and classification
+- **Knowledge Graphs (KG)** - Graph-based knowledge representation and reasoning
+- **Neural Networks** - Deep learning architectures and optimization
+- **Distributed Systems** - Microservices, event-driven architectures
+- **MLOps** - Model deployment, monitoring, and lifecycle management
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korayciftciii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayciftciii&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayciftciii&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korayciftciii&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korayciftciii&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💼 What I Do
-
-- 🌐 **Full Stack Web Development** - Scalable web applications using modern frameworks
-- 🔌 **API Development & Integration** - RESTful APIs and third-party integrations
-- 🎨 **UI/UX Design** - User-centered, modern and accessible interfaces
-- ⚡ **Performance Optimization** - Fast and efficient web applications
-
-## 📫 Get In Touch
+## 📫 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ciftci.koray@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ciftci.koray@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Koray%20Çiftçi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciftci-koray)
-[![Portfolio](https://img.shields.io/badge/Portfolio-korayciftci.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://korayciftci.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-korayciftci.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://korayciftci.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=korayciftciii&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  
-  **💡 "Coding is an art, problem-solving is a passion!"**
-  
-  *Ready to collaborate on your projects with a 24-hour response guarantee.*
-</div>
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <sub>This README is dynamically developed with continuously updated projects and skills.</sub>
+  <i>Building the future with AI and clean code</i>
 </div>
